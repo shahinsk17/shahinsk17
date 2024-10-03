@@ -1,4 +1,3 @@
-![Background Banner](https://img.freepik.com/free-vector/3d-style-black-background-with-paper-layer_206725-669.jpg)
 
 # Hi there! I'm Shahin Shaikh 👋
 
@@ -19,7 +18,12 @@ I am a final year Information Technology student with a passion for frontend dev
 - [LinkedIn](https://www.linkedin.com/in/shahin-shaikh-5b6568229/)
 
 ## 🚀 Interests
-I’m interested in frontend development and am constantly exploring new technologies to enhance my skills.
+ 
+- **Frontend Development**: Creating engaging and user-friendly web applications.
+- **Exploring New Technologies**: Continuously learning about emerging frameworks and tools in the tech industry.
+- **Problem Solving**: Tackling challenging problems through innovative coding solutions.
 
 ## 📧 Contact
 You can reach me at: shahinshaikh6828@gmail.com
+
+ 
