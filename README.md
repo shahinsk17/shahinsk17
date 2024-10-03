@@ -1,4 +1,4 @@
-<div style="background-image: url('https://img.freepik.com/free-vector/3d-style-black-background-with-paper-layer_206725-669.jpg'); padding: 20px; background-size: cover; color: white;"> 
+![Background Banner](https://img.freepik.com/free-vector/3d-style-black-background-with-paper-layer_206725-669.jpg)
 
 # Hi there! I'm Shahin Shaikh 👋
 
@@ -23,5 +23,3 @@ I’m interested in frontend development and am constantly exploring new technol
 
 ## 📧 Contact
 You can reach me at: shahinshaikh6828@gmail.com
-
-</div>
